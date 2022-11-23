@@ -35,7 +35,7 @@ while(t<=5){
         t++;
     }
     else{
-        printf("\nYOU SYILL HAVE %d CHANCE TRY NUMBER MORE SMALLER",5-t);
+        printf ("\nYOU SYILL HAVE %d CHANCE TRY NUMBER MORE SMALLER",5-t);
         t++;
     }
 }
