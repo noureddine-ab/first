@@ -1,14 +1,4 @@
 #include<stdio.h>
-/*void main(){
-int n=0;
-while(n<2){
-    printf("saisie: ");
-    scanf("%d",&n);
-    if (n>2)
-        break;
-}
-printf("%d",n);
-}*/
 void main(){
 int g=15,t=1,n=-1;
 printf("\tWELCOME TO GUESS TEST YOU HAVE ONLY 5 ATTEMPS TO TRY TO GUESS THE POSITIVE NUMBER");
